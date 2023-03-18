@@ -1,4 +1,4 @@
 # Backend-Capstone-Project
 
-Fully functional Restaurant App with menu items and bookings. This project was part of the Capstone for Meta's Backend Developper Certificate Professionnal By Coursera.
-
+Here is an API project for a restaurant menu items and bookings that I made in order to complete the Backend Developper Certificate Professionnal By Meta 
+Feel free to experiment or review :)
